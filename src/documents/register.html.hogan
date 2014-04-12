@@ -1,0 +1,36 @@
+---
+layout: estructura
+---
+
+<section id="register">
+	 <div class="line espace">
+		<h1 class="title">
+			<span class="short">REGISTRO</span>
+		</h1>
+  </div>
+  <article class="post">
+	<div class="middle">
+		
+			<form>
+				<div class="holder">
+		   	 		<input type="text" name="name" placeholder="Nombre" required></br>
+		   	 	</div>
+				<div class="holder">
+		   	 		<input type="email" name="username" placeholder="Email" required></br>
+				</div>
+
+				<div class="holder">
+		    		<input type="password" name="contraseña" placeholder="Contraseña" required></br>
+				</div>
+
+				<div class="holder">
+		    		<input type="password" name="passwordconfirm" placeholder="Confirma tu contraseña" required></br>
+				</div>
+		
+				<input class="button" type="submit" value="Enviar" />
+				<div class="clearfix"></div>
+			</form>
+
+			<a href="login.html">Login</a>
+
+</section>

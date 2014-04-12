@@ -1,0 +1,11 @@
+---
+layout: estructura-log
+---
+
+<section id="message">
+	<div class="middle">
+		<h1>La página ha sido borrada</h1>
+		<div class="active"><a href="sitios.html">Volver a mis sitios</a></div>
+	</div>
+
+</section>

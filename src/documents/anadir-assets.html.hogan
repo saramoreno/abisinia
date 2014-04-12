@@ -1,0 +1,227 @@
+---
+layout: estructura-log
+---
+
+---
+layout: estructura-log
+---
+
+<section id="assets">
+	<div class="header">
+		<ul class="mod-tabs">
+			<li class="active">Assets</li>
+			<li class="stats"><a href="stats.html">Stats</a></li>
+		</ul>
+		<div class="add">
+			<a href="#">Nuevo Asset</a>
+		</div>
+		<div class="clearfix"></div>
+
+	</div>
+
+
+	<article>
+		<div class="row">
+			<div class="box">
+				<div></div>
+				<p>documents/images/foto1.jpg</p>
+				<h1>foto1.jpg</h1>
+			</div>
+
+			<div class="right-box">
+				<div class="delete"><a href="delete.html">delete</a></div>
+			</div>
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>E</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>D</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+
+			<div class="small-box">
+				<div class="red"></div>
+				<h1>C</h1>
+				<div class="cross">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>B</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>A</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+
+		</div>
+		<div class="clearfix"></div>
+
+	 </article>
+	 
+
+	 <article>
+		<div class="row">
+			<div class="box">
+				<div></div>
+				<p>documents/images/foto1.jpg</p>
+				<h1>foto2.jpg</h1>
+			</div>
+
+			<div class="right-box">
+				<div class="delete"><a href="delete.html">delete</a></div>
+			</div>
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>E</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>D</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>C</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>B</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>A</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+				
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	  </article>
+	 
+
+	  <article>
+		<div class="row">
+			<div class="box">
+				<div></div>
+				<p>documents/images/foto1.jpg</p>
+				<h1>foto3.jpg</h1>
+			</div>
+			<div class="right-box">
+				<div class="delete"><a href="delete.html">delete</a></div>
+			</div>
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>E</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>D</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+			<div class="small-box">
+				<div class="red"></div>
+				<h1>C</h1>
+				<div class="cross">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+			<div class="small-box">
+				<div class="red"></div>
+				<h1>B</h1>
+				<div class="cross">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+			<div class="small-box">
+				<div class="green"></div>
+				<h1>A</h1>
+				<div class="tick">x</div>
+				<div class="upload-button">
+    				<span>Upload</span>
+    				<input type="file" class="upload" />
+				</div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+		
+	</article>
+
+	<div class="background">
+	</div>
+
+	<div class="modal-box" style="display:block;">
+			<form id="create-post-form">
+				<h1>Añade un nuevo asset</h1>
+				<div class="holder">
+					<input type="text" name="title" placeholder="Nombre del sitio" required></br>
+				</div>
+				<div class="holder">
+					<input placeholder="Url del sitio" name="url" type="text" required pattern="https?://.+" >
+				</div>
+				<input class="button" type="submit" value="Añadir" />
+			</form>
+		</div>
+</section>
+

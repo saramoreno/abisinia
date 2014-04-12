@@ -1,0 +1,36 @@
+---
+layout: estructura-log
+---
+<section id="list">
+	<div class="header">
+		<ul class="mod-tabs">
+			<li class="stats">SITIOS</li>
+			<li class="right add"><a href="nuevo.html">NUEVO</a></li>
+		</ul>
+		<div class="clearfix"></div>
+	</div>
+
+	<div class="container">
+	
+		<article class="post">
+			<h1><a href="assets.html">Universidad Autónoma de Madrid</a></h1>
+			<p><a href="http://www.uam.es/ss/Satellite/es/home/">www.uam.es</a></p>
+			<div class="del"><a href="delete.html">x</a></div>
+		</article>
+
+		<article class="post">
+			<h1><a href="#">Linkr</a></h1>
+			<p><a href="http://linkrbot.herokuapp.com/">linkrbot.herokuapp.com</a></p>
+			<div class="del"><a href="delete.html">x</a></div>
+		</article>
+		<article class="post">
+			<h1><a href="#">Flaut.in</a></h1>
+			<p><a href="http://flaut.in">flaut.in</a></p>
+			<div class="del"><a href="delete.html">x</a></div>
+		</article>
+
+		<div class="clearfix"></div>
+
+	</div>
+
+</section>
